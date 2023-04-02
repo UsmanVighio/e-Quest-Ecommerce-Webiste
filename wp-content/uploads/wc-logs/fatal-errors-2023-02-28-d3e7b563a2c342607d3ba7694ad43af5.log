@@ -1,0 +1,14 @@
+2023-02-28T12:54:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecommercewebsite\wp-content\plugins\olympus-google-fonts\includes\customizer\panels.php on line 16
+
+2023-02-28T12:54:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecommercewebsite\wp-content\plugins\woocommerce\src\Internal\Admin\ProductReviews\Reviews.php on line 16
+
+2023-02-28T12:55:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecommercewebsite\wp-content\themes\flatsome\inc\woocommerce\structure-wc-cart.php on line 5
+
+2023-02-28T12:55:25+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecommercewebsite\wp-includes\functions.php on line 4542
+
+2023-02-28T12:55:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecommercewebsite\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-post-types.php on line 12
+
+2023-02-28T12:55:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecommercewebsite\wp-content\plugins\contact-form-7\includes\swv\rules\enum.php on line 47
+
+2023-02-28T12:57:46+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecommercewebsite\wp-includes\Requests\Transport\cURL.php on line 484
+
